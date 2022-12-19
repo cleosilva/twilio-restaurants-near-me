@@ -12,13 +12,13 @@ Depois de instalar corretamente, siga os procedimentos a seguir:
 
 Clone
 
-````bash
-
-
+```bash
+git clone https://github.com/cleosilva/twilio-restaurants-near-me.git
+```
 
 ```bash
 cd twilio-restaurants-near-me
-````
+```
 
 Run
 
